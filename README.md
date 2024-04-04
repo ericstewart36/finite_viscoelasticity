@@ -1,8 +1,8 @@
 # FEniCSx codes for finite viscoelasticity of elastomeric materials 
 
-This repository contains the code base for the finite element implementation of the large deformation viscoelasticity theory I developed in collaboration with Prof. Lallit Anand for modeling elastomeric materials.
+This repository contains a diverse array of example FEniCSx finite element simulation codes for a large deformation multi-branch viscoelasticity theory of elastomeric materials, including dynamic effects.
 
-Specifically, the repository contains all the relevant FEniCSx codes, mesh files, and experimental data files which were used in the representative example simulations in the accompanying paper, "A finite deformation viscoelasticity theory for elastomeric materials and its numerical implementation in the open source finite element program FEniCSx."
+Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks, mesh files, and experimental data files which were used in the representative example simulations in the accompanying paper, "A finite deformation viscoelasticity theory for elastomeric materials and its numerical implementation in the open source finite element program FEniCSx," by Eric M. Stewart and Lallit Anand.
 
 # Running the codes
 
