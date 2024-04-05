@@ -6,7 +6,7 @@ Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks
 
 # Running the codes
 
-A detailed guide for installing FEniCSx in a Docker container and running the notebooks using VSCode is provided in this repository, [here](https://github.com/ericstewart36/finite_viscoelasticity/blob/main/FEniCSx_install_instructions.pdf).
+A detailed guide for installing FEniCSx in a Docker container and running the notebooks using VSCode is provided in this repository, both for [Mac](https://github.com/ericstewart36/finite_viscoelasticity/blob/main/FEniCSx_installation_instructions_mac.pdf) and [Windows](https://github.com/ericstewart36/finite_viscoelasticity/blob/main/FEniCSx_installation_instructions_windows.pdf). The installation process is essentially similar for the two operating systems, but the example screenshots in the instructions are from the relevant system.
 
 These are our preferred methods for editing and running FEniCSx codes, although [many other options exist](https://fenicsproject.org/download/). Note that we use the development release of FEniCSx v0.8.0 in order to have access to quadrature elements.
 
