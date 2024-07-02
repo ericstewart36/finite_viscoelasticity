@@ -10,6 +10,12 @@ A detailed guide for installing FEniCSx in a Docker container and running the no
 
 These are our preferred methods for editing and running FEniCSx codes, although [many other options exist](https://fenicsproject.org/download/). Note that all codes were written for FEniCSx v0.8.0, so our instructions documents will direct you to install this specific version of FEniCSx.
 
+We have also provided a python script version of simulation FV09 which is meant to be run with MPI parallelization. To run this script in parallel on e.g. four cores use the following command syntax in the terminal:  
+
+```
+mpirun -n 4 python3 FV09_NBR_bushing_shear_MPI.py
+```
+
 # Movies
 
 <br/><br/>
