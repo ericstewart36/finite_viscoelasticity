@@ -2,7 +2,7 @@
 
 This repository contains a diverse array of example FEniCSx finite element simulation codes for a large deformation multi-branch viscoelasticity theory of elastomeric materials, including dynamic effects.
 
-Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks, mesh files, and experimental data files which were used in the representative example simulations in the accompanying paper, "A finite deformation viscoelasticity theory for elastomeric materials and its numerical implementation in the open source finite element program FEniCSx," by Eric M. Stewart and Lallit Anand.
+Specifically, the repository contains all the relevant FEniCSx Jupyter notebooks, mesh files, and experimental data files which were used in the representative example simulations in the accompanying paper, "A finite deformation viscoelasticity theory for elastomeric materials and its numerical implementation in the open source finite element program FEniCSx," by Eric M. Stewart and Lallit Anand. Find the paper [here](https://doi.org/10.1016/j.ijsolstr.2024.113023).
 
 # Running the codes
 
@@ -23,4 +23,4 @@ mpirun -n 4 python3 FV09_NBR_bushing_shear_MPI.py
 ![](https://github.com/ericstewart36/finite_viscoelasticity/blob/main/example_movies.gif)
 
 # Citation
-The paper has been submitted but not yet published. Please contact me (ericstew@mit.edu) for up-to-date citation information if you use these codes in your own research.
+E. M. Stewart and L. Anand. A large deformation viscoelasticity theory for elastomeric materials and its numerical implementation in the open-source finite element program FEniCSx. *International Journal of Solids and Structures*, 303:113023, Oct. 2024.
